@@ -1,0 +1,5 @@
+memosphere.db
+*.db
+__pycache__/
+.venv/
+venv/
